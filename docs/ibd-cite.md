@@ -1,0 +1,20 @@
+# Inflammatory Bowel Disease Genetics Consortium (IBDGC) Data Commons
+
+## Cite the IBDGC Data Commons
+Please credit the Inflammatory Bowel Disease Genetics Consortium Data Commons in your manuscript by citing the following reference:
+
+> IBDGC Data Commons. https://ibdgc.datacommons.io/. Accessed [Insert Date].
+
+## [Return to the IBDGC Data Commons][IBDGC Platform]
+
+[![IBDGC Logo][img IBDGC logo]{:style="height:100px"}][IBDGC Platform]
+
+<!-- Links and Images -->
+[IBDGC Platform]: https://ibdgc.datacommons.io/
+[Gen3.org]: https://gen3.org/
+[img IBDGC logo]: ./img/IBDGC-logo.png
+[img Gen3 logo]: ./img/gen3blue.png
+<!-- 
+[doi link]: 
+[pmid link]: 
+[pmcid link]: 

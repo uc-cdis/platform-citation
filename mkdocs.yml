@@ -1,1 +1,65 @@
-site_name: My Docs
+site_name: Citing Gen3 Platforms
+site_url: https://uc-cdis.github.io/platform-citation/
+repo_url: https://github.com/uc-cdis/platform-citation
+
+nav:
+  - Home: home-cite.md
+  - Platforms: 
+    - AnVIL: anvil-cite.md
+    - BioDataCatalyst: bdc-cite.md
+    - Biomedical Research Hub (BRH): brh-cite.md
+    - BloodPAC: bloodpac-cite.md
+    - HEAL: heal-cite.md
+    - IBD: ibd-cite.md
+    - JCOIN: jcoin-cite.md
+    - MIDRC: midrc-cite.md
+    - Pandemic Response Commons: pdc-cite.md
+    - VA Data Commons: vadc-cite.md
+  - CTDS Home: https://ctds.uchicago.edu/
+  - tab 3: 
+
+theme:
+  favicon: img/favicon.ico
+  logo: img/brh-logo.png
+  name: material
+
+theme:
+  palette:
+    # Palette toggle for light mode
+    - scheme: default
+      toggle:
+        icon: material/weather-sunny 
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+
+theme:
+  features:
+    - navigation.indexes
+    - navigation.tracking
+
+theme:
+  name: 'material'
+  favicon: 'images/favicon.ico'
+    
+plugins:
+  - search
+
+use_directory_urls: true
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - toc:
+      permalink: True
+      baselevel: 1
+  - pymdownx.superfences
+  - pymdownx.details
+plugins:
+  - search
+  - mkdocs-video:
+      is_video: True
