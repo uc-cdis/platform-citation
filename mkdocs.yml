@@ -9,38 +9,39 @@ nav:
        - Biomedical Research Hub (BRH): brh-cite.md
        - BloodPAC: bloodpac-cite.md
        - HEAL: heal-cite.md
-       - IBD: ibd-cite.md
+       - IBD Genetics Consortium (IBDGC): ibd-cite.md
        - JCOIN: jcoin-cite.md
        - MIDRC: midrc-cite.md
        - Pandemic Response Commons: pdc-cite.md
-       - Veterans Affairs Data Commons: vadc-cite.md
-       - Veterans Precision Oncology Data Commons: vpodc-cite.md
+       - Veterans Affairs Data Commons (VADC): vadc-cite.md
+       - Veterans Precision Oncology Data Commons (VPODC): vpodc-cite.md
     - CTDS Home: https://ctds.uchicago.edu/
 
 theme:
-    name: material
     favicon: img/favicon.ico
     logo: img/ctds-logo-screen-horizontal-RGB-color.png
+    name: material
 
-theme:
     palette:
     # Palette toggle for light mode
-       - scheme: default
-          toggle:
+       - media: "(prefers-color-scheme: light)"
+         primary: white
+         toggle: 
           icon: material/weather-sunny 
           name: Switch to dark mode
 
     # Palette toggle for dark mode
-       - scheme: slate
-          toggle:
+       - media: "(prefers-color-scheme: dark)"
+         primary: grey
+         scheme: slate
+         toggle: 
           icon: material/weather-night
           name: Switch to light mode
 
-theme:
-   features:
-     - navigation.instant
-     - navigation.indexes
-     - navigation.tracking
+    features:
+       - navigation.instant
+       - navigation.indexes
+       - navigation.tracking
     
 plugins:
     - search

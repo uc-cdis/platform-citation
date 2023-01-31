@@ -2,7 +2,7 @@
 
 ## Cite the VPODC
 
-Please credit the Veterans affairs Precisions Oncology Data Repository in your manuscript by citing the following paper:
+Please credit the Veterans Precision Oncology Data Commons in your manuscript by citing the following paper:
 
 > Danne C. Elbers, Nathanael R. Fillmore, Feng-Chi Sung, Spyridon S. Ganas, Andrew Prokhorenkov, Christopher Meyer, Robert B. Hall, Samuel J. Ajjarapu, Daniel C. Chen, Frank Meng, Robert L. Grossman, Mary T. Brophy, Nhan V. Do. **The Veterans Affairs Precision Oncology Data Repository, a Clinical, Genomic, and Imaging Research Database**. Patterns (N Y). 2020;1(6):100083. Published 2020 Aug 17. doi:10.1016/j.patter.2020.100083
 
