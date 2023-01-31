@@ -18,23 +18,23 @@ nav:
     - CTDS Home: https://ctds.uchicago.edu/
 
 theme:
-   favicon: img/favicon.ico
-   logo: img/ctds-logo-screen-horizontal-RGB-color.png
-   name: material
+    name: material
+    favicon: img/favicon.ico
+    logo: img/ctds-logo-screen-horizontal-RGB-color.png
 
 theme:
-   palette:
+    palette:
     # Palette toggle for light mode
-     - scheme: default
-       toggle:
-         icon: material/weather-sunny 
-         name: Switch to dark mode
+       - scheme: default
+          toggle:
+          icon: material/weather-sunny 
+          name: Switch to dark mode
 
     # Palette toggle for dark mode
-     - scheme: slate
-       toggle:
-         icon: material/weather-night
-         name: Switch to light mode
+       - scheme: slate
+          toggle:
+          icon: material/weather-night
+          name: Switch to light mode
 
 theme:
    features:
@@ -43,19 +43,19 @@ theme:
      - navigation.tracking
     
 plugins:
-   - search
+    - search
 
 use_directory_urls: true
 markdown_extensions:
-   - admonition
-   - attr_list
-   - md_in_html
-   - toc:
+    - admonition
+    - attr_list
+    - md_in_html
+    - toc:
        permalink: True
        baselevel: 1
-   - pymdownx.superfences
-   - pymdownx.details
+    - pymdownx.superfences
+    - pymdownx.details
 plugins:
-   - search
-   - mkdocs-video:
+    - search
+    - mkdocs-video:
        is_video: True
