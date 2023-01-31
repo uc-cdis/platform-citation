@@ -57,5 +57,5 @@ markdown_extensions:
    - pymdownx.details
 plugins:
    - search
-  - mkdocs-video:
+   - mkdocs-video:
        is_video: True
