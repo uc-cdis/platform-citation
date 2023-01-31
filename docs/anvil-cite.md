@@ -7,7 +7,9 @@ Please credit the AnVIL Data Commons in your manuscript by citing the following 
 
 ## [Return to the AnVIL Data Commons][AnVIL Platform]
 
-[![AnVIL Logo][img AnVIL logo]{:style="height:100px"}][AnVIL Platform]
+[![AnVIL Logo][img AnVIL logo]{:style="height:150px"}][AnVIL Platform]
+
+## [Learn more about the AnVIL Project][Org website]
 
 <!-- Links and Images -->
 [AnVIL Platform]: https://gen3.theanvil.io/
@@ -17,3 +19,4 @@ Please credit the AnVIL Data Commons in your manuscript by citing the following 
 [doi link]: https://doi.org/10.1016/j.xgen.2021.100085
 [pmid link]: https://pubmed.ncbi.nlm.nih.gov/35199087/
 [pmcid link]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8863334/
+[Org website]: https://anvilproject.org/

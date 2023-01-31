@@ -13,52 +13,49 @@ nav:
        - JCOIN: jcoin-cite.md
        - MIDRC: midrc-cite.md
        - Pandemic Response Commons: pdc-cite.md
-       - VA Data Commons: vadc-cite.md
+       - Veterans Affairs Data Commons: vadc-cite.md
+       - Veterans Precision Oncology Data Commons: vpodc-cite.md
     - CTDS Home: https://ctds.uchicago.edu/
 
 theme:
-  favicon: img/favicon.ico
-  logo: img/brh-logo.png
-  name: material
+   favicon: img/favicon.ico
+   logo: img/ctds-logo-screen-horizontal-RGB-color.png
+   name: material
 
 theme:
-  palette:
+   palette:
     # Palette toggle for light mode
-    - scheme: default
-      toggle:
-        icon: material/weather-sunny 
-        name: Switch to dark mode
+     - scheme: default
+       toggle:
+         icon: material/weather-sunny 
+         name: Switch to dark mode
 
     # Palette toggle for dark mode
-    - scheme: slate
-      toggle:
-        icon: material/weather-night
-        name: Switch to light mode
+     - scheme: slate
+       toggle:
+         icon: material/weather-night
+         name: Switch to light mode
 
 theme:
-  features:
-    - navigation.instant
-    - navigation.indexes
-    - navigation.tracking
-
-theme:
-  name: 'material'
-  favicon: 'images/favicon.ico'
+   features:
+     - navigation.instant
+     - navigation.indexes
+     - navigation.tracking
     
 plugins:
-  - search
+   - search
 
 use_directory_urls: true
 markdown_extensions:
-  - admonition
-  - attr_list
-  - md_in_html
-  - toc:
-      permalink: True
-      baselevel: 1
-  - pymdownx.superfences
-  - pymdownx.details
+   - admonition
+   - attr_list
+   - md_in_html
+   - toc:
+       permalink: True
+       baselevel: 1
+   - pymdownx.superfences
+   - pymdownx.details
 plugins:
-  - search
+   - search
   - mkdocs-video:
-      is_video: True
+       is_video: True
