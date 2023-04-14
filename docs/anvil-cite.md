@@ -3,7 +3,7 @@
 ## Cite the AnVIL Data Commons
 Please credit the AnVIL Data Commons in your manuscript by citing the following paper in your manuscript:
 
-> Schatz MC, Philippakis AA, Afgan E, Banks E, Carey VJ, Carroll RJ, Culotti A, Ellrott K, Goecks J, Grossman RL, Hall IM, Hansen KD, Lawson J, Leek JT, Luria AO, Mosher S, Morgan M, Nekrutenko A, O'Connor BD, Osborn K, Paten B, Patterson C, Tan FJ, Taylor CO, Vessio J, Waldron L, Wang T, Wuichet K. **Inverting the model of genomics data sharing with the NHGRI Genomic Data Science Analysis, Visualization, and Informatics Lab-space.** Cell Genom. 2022 Jan 12;2(1):100085. doi: [10.1016/j.xgen.2021.100085][doi link]. Epub 2022 Jan 13. PMID: [35199087][pmid link]; PMCID: [PMC8863334][pmcid link].
+> Schatz, M. C., Philippakis, A. A., Afgan, E., Banks, E., Carey, V. J., Carroll, R. J., Culotti, A., Ellrott, K., Goecks, J., Grossman, R. L., Hall, I. M., Hansen, K. D., Lawson, J., Leek, J. T., Luria, A. O., Mosher, S., Morgan, M., Nekrutenko, A., O'Connor, B. D., Osborn, K., … Wuichet, K. (2022). Inverting the model of genomics data sharing with the NHGRI Genomic Data Science Analysis, Visualization, and Informatics Lab-space. Cell genomics, 2(1), 100085. [doi link]. Epub 2022 Jan 13. PMID: [35199087][pmid link]; PMCID: [PMC8863334][pmcid link].
 
 ## [Return to the AnVIL Data Commons][AnVIL Platform]
 

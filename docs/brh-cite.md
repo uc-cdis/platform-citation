@@ -4,7 +4,7 @@
 
 Please credit the Biomedical Research Hub (BRH) in your manuscript by citing the following paper:
 
-> Barnes C, Bajracharya B, Cannalte M, Gowani Z, Haley W, Kass-Hout T, Hernandez K, Ingram M, Juvvala HP, Kuffel G, Martinov P, Maxwell JM, McCann J, Malhotra A, Metoki-Shlubsky N, Meyer C, Paredes A, Qureshi J, Ritter X, Schumm P, Shao M, Sheth U, Simmons T, VanTol A, Zhang Z, Grossman RL. **The Biomedical Research Hub: a federated platform for patient research data.** J Am Med Inform Assoc. 2022 Mar 15;29(4):619-625. doi: [10.1093/jamia/ocab247][doi link]. PMID: [35289369][pmid link]; PMCID: [PMC8922179][pmcid link].
+> Barnes, C., Bajracharya, B., Cannalte, M., Gowani, Z., Haley, W., Kass-Hout, T., Hernandez, K., Ingram, M., Juvvala, H. P., Kuffel, G., Martinov, P., Maxwell, J. M., McCann, J., Malhotra, A., Metoki-Shlubsky, N., Meyer, C., Paredes, A., Qureshi, J., Ritter, X., Schumm, P., … Grossman, R. L. (2022). The Biomedical Research Hub: a federated platform for patient research data. Journal of the American Medical Informatics Association : JAMIA, 29(4), 619–625. https://doi.org/10.1093/jamia/ocab247
 
 ## Cite Data from BRH
 
