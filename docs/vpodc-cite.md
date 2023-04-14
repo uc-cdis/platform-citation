@@ -4,7 +4,7 @@
 
 Please credit the Veterans Precision Oncology Data Commons in your manuscript by citing the following paper:
 
-> Danne C. Elbers, Nathanael R. Fillmore, Feng-Chi Sung, Spyridon S. Ganas, Andrew Prokhorenkov, Christopher Meyer, Robert B. Hall, Samuel J. Ajjarapu, Daniel C. Chen, Frank Meng, Robert L. Grossman, Mary T. Brophy, Nhan V. Do. **The Veterans Affairs Precision Oncology Data Repository, a Clinical, Genomic, and Imaging Research Database**. Patterns (N Y). 2020;1(6):100083. Published 2020 Aug 17. doi:10.1016/j.patter.2020.100083
+> Elbers, D. C., Fillmore, N. R., Sung, F. C., Ganas, S. S., Prokhorenkov, A., Meyer, C., Hall, R. B., Ajjarapu, S. J., Chen, D. C., Meng, F., Grossman, R. L., Brophy, M. T., & Do, N. V. (2020). The Veterans Affairs Precision Oncology Data Repository, a Clinical, Genomic, and Imaging Research Database. Patterns (New York, N.Y.), 1(6), 100083. https://doi.org/10.1016/j.patter.2020.100083
 
 ## [Return to the VPODC][VPODC Platform]
 
@@ -16,8 +16,8 @@ Please credit the Veterans Precision Oncology Data Commons in your manuscript by
 [img VPODC logo]: ./img/vpodc-logo.png
 [img Gen3 logo]: ./img/gen3blue.png
 [doi link]: https://doi.org/10.1016/j.patter.2020.100083
-<!-- 
+<!--
 
-[pmid link]: 
-[pmcid link]: 
+[pmid link]:
+[pmcid link]:
 -->
