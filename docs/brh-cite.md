@@ -1,6 +1,6 @@
 # Biomedical Research Hub (BRH)
 
-## Cite the BRH Platform
+## Cite the BRH Portal
 
 Please credit the Biomedical Research Hub (BRH) in your manuscript by citing the following paper:
 
