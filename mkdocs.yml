@@ -5,7 +5,7 @@ nav:
     - Home: home-cite.md
     - Platforms:
        - AnVIL: anvil-cite.md
-       - BioDataCatalyst: bdc-cite.md
+       - BioData Catalyst: bdc-cite.md
        - Biomedical Research Hub (BRH): brh-cite.md
        - BLOODPAC: bloodpac-cite.md
        - HEAL: heal-cite.md
