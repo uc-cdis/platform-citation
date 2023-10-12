@@ -9,7 +9,7 @@ Please credit the HEAL Data Platform in your manuscript by citing the following 
 ## Cite Data from HEAL
 
 When citing data found on the HEAL platform, please cite or acknowledge the associated **investigators** and also refer to the attribution policies of the data’s designated **repository**. On the Discovery page, search for the study and click on it; the Study Details page will open. On the Cite tab, you can fine the citation information for the study and the repository. 
-[![HEAL cite ex][img HEAL cite ex]{: style="height:125px"}]
+[![HEAL cite ex][img HEAL cite ex]{: style="height:100px"}]
 
 ## [Return to the HEAL Platform][HEAL Platform]
 
