@@ -31,4 +31,4 @@ six==1.16.0
 urllib3==1.26.19
 virtualenv==20.21.0
 watchdog==3.0.0
-zipp==3.15.0
+zipp==3.19.1
