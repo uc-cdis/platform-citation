@@ -43,9 +43,6 @@ theme:
        - navigation.indexes
        - navigation.tracking
 
-plugins:
-    - search
-
 use_directory_urls: true
 markdown_extensions:
     - admonition
