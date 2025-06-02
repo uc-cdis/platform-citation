@@ -18,8 +18,8 @@ Please credit the Inflammatory Bowel Disease Genetics Consortium Data Commons in
 [img IBDGC logo]: ./img/IBDGC-logo.png
 [img Gen3 logo]: ./img/gen3blue.png
 [Org website]: https://www.ibdgc.org/
-<!-- 
-[doi link]: 
-[pmid link]: 
-[pmcid link]: 
+<!--
+[doi link]:
+[pmid link]:
+[pmcid link]:
  -->
