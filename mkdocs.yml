@@ -4,16 +4,13 @@ repo_url: https://github.com/uc-cdis/platform-citation
 nav:
     - Home: home-cite.md
     - Platforms:
-       - AnVIL: anvil-cite.md
        - BioData Catalyst: bdc-cite.md
        - Biomedical Research Hub (BRH): brh-cite.md
        - BLOODPAC: bloodpac-cite.md
        - HEAL: heal-cite.md
-       - IBD Genetics Consortium (IBDGC): ibd-cite.md
        - JCOIN: jcoin-cite.md
        - MIDRC: midrc-cite.md
        - Pandemic Response Commons: prc-cite.md
-       - Veterans Affairs Data Commons (VADC): vadc-cite.md
        - Veterans Precision Oncology Data Commons (VPODC): vpodc-cite.md
     - CTDS Home: https://ctds.uchicago.edu/
 
