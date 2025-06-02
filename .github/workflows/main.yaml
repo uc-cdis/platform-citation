@@ -17,11 +17,10 @@ jobs:
     steps:
       - name: Checkout master branch
         uses: actions/checkout@v3
-      - name: Install Python 3.8
+      - name: Install Python 3.9
         uses: actions/setup-python@v4
         with:
-          python-version: '3.8'
-          cache: 'pip'
+          python-version: '3.9'
       - name: Install dependencies
         run: pip install -r requirements.txt
       - name: Deploy Github Pages
