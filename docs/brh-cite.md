@@ -10,6 +10,13 @@ Please credit the Biomedical Research Hub (BRH) in your manuscript by citing the
 
 When citing data found on the BRH platform, please cite or acknowledge the associated **investigators** and also refer to the attribution policies of the data’s designated **repository**.
 
+## Cite Gen3
+
+When citing the Gen3 software please reference the following paper:
+
+> Barnes, C., Burton, K., Fitzsimons, M. S., Juvvala, H. P., Larrick, B., Meyer, C., ... & Grossman, R. L. (2025). Managing, Analyzing and Sharing Research Data with Gen3 Data Commons. arXiv preprint arXiv:2508.04944.
+
+
 ## [Return to the BRH Platform][BRH Platform]
 
 [![BRH Logo][img BRH logo]{: style="height:100px"}][BRH Platform]
