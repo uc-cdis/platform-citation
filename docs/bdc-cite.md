@@ -6,8 +6,7 @@ National Heart, Lung, and Blood Institute, National Institutes of Health, U.S. D
 
 ## For citation of BDC Powered by Gen3
 
-BioData Catalyst. [https://gen3.biodatacatalyst.nhlbi.nih.gov/][BDC Platform]. Accessed [Insert Date].
-
+> Barnes, C., Burton, K., Fitzsimons, M. S., Juvvala, H. P., Larrick, B., Meyer, C., ... & Grossman, R. L. (2025). Managing, Analyzing and Sharing Research Data with Gen3 Data Commons. arXiv preprint arXiv:2508.04944.
 ## To acknowledge BDC, use:
 
 The authors wish to acknowledge the contributions of the consortium working on the development of the NHLBI BioData Catalyst® (BDC) ecosystem.
