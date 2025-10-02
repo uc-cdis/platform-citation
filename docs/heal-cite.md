@@ -8,9 +8,15 @@ Please credit the HEAL Data Platform in your manuscript by citing the following 
 
 ## Cite Data from HEAL
 
-When citing data found on the HEAL platform, please cite or acknowledge the associated **investigators** and also refer to the attribution policies of the data’s designated **repository**. On the Discovery page, search for the study and click on it; the Study Details page will open. On the Cite tab, you can fine the citation information for the study and the repository.  
+When citing data found on the HEAL platform, please cite or acknowledge the associated **investigators** and also refer to the attribution policies of the data’s designated **repository**. On the Discovery page, search for the study and click on it; the Study Details page will open. On the Cite tab, you can fine the citation information for the study and the repository.
 
 ![HEAL cite ex][img HEAL cite ex]{: style="height:300px"}
+
+## Cite Gen3
+
+When citing the Gen3 software please reference the following paper:
+
+> Barnes, C., Burton, K., Fitzsimons, M. S., Juvvala, H. P., Larrick, B., Meyer, C., ... & Grossman, R. L. (2025). Managing, Analyzing and Sharing Research Data with Gen3 Data Commons. arXiv preprint arXiv:2508.04944.
 
 ## [Return to the HEAL Platform][HEAL Platform]
 
@@ -25,8 +31,8 @@ When citing data found on the HEAL platform, please cite or acknowledge the asso
 [img HEAL logo]: ./img/HEAL_Initiative.webp
 [img Gen3 logo]: ./img/gen3blue.png
 [Org website]: https://heal.nih.gov/
-<!-- 
-[doi link]: 
-[pmid link]: 
-[pmcid link]: 
+<!--
+[doi link]:
+[pmid link]:
+[pmcid link]:
 -->
