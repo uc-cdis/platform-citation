@@ -6,6 +6,12 @@ Please credit the Veterans Precision Oncology Data Commons in your manuscript by
 
 > Elbers, D. C., Fillmore, N. R., Sung, F. C., Ganas, S. S., Prokhorenkov, A., Meyer, C., Hall, R. B., Ajjarapu, S. J., Chen, D. C., Meng, F., Grossman, R. L., Brophy, M. T., & Do, N. V. (2020). The Veterans Affairs Precision Oncology Data Repository, a Clinical, Genomic, and Imaging Research Database. Patterns (New York, N.Y.), 1(6), 100083. doi: [10.1016/j.patter.2020.100083][doi link] PMID: [33205130][pmid link] PMCID: [PMC7660389][pmcid link]
 
+## Cite Gen3
+
+When citing the Gen3 software please reference the following paper:
+
+> Barnes, C., Burton, K., Fitzsimons, M. S., Juvvala, H. P., Larrick, B., Meyer, C., ... & Grossman, R. L. (2025). Managing, Analyzing and Sharing Research Data with Gen3 Data Commons. arXiv preprint arXiv:2508.04944.
+
 ## [Return to the VPODC][VPODC Platform]
 
 [![VPODC Logo][img VPODC logo]{:style="height:100px"}][VPODC Platform]
