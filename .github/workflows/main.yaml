@@ -22,7 +22,10 @@ jobs:
         with:
           python-version: '3.9'
       - name: Install dependencies
-        run: pip install -r requirements.txt
+        run: |
+          pip install poetry
+          poetry install -vv --no-interaction
+          poetry show -vv
       - name: Deploy Github Pages
         run: |
           git pull
