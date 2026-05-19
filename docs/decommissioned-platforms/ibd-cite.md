@@ -15,8 +15,8 @@ Please credit the Inflammatory Bowel Disease Genetics Consortium Data Commons in
 <!-- Links and Images -->
 [IBDGC Platform]: https://ibdgc.datacommons.io/
 [Gen3.org]: https://gen3.org/
-[img IBDGC logo]: ./img/IBDGC-logo.png
-[img Gen3 logo]: ./img/gen3blue.png
+[img IBDGC logo]: ../img/IBDGC-logo.png
+[img Gen3 logo]: ../img/gen3blue.png
 [Org website]: https://www.ibdgc.org/
 <!--
 [doi link]:

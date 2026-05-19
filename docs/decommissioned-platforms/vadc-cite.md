@@ -31,8 +31,8 @@ Zhou W, Nielsen JB, Fritsche LG, Dey R, Gabrielsen ME, Wolford BN, LeFaive J, Va
 <!-- Links and Images -->
 [VADC Platform]: https://va.data-commons.org/
 [Gen3.org]: https://gen3.org/
-[img VADC logo]: ./img/vadc-logo.png
-[img Gen3 logo]: ./img/gen3blue.png
+[img VADC logo]: ../img/vadc-logo.png
+[img Gen3 logo]: ../img/gen3blue.png
 <!--
 [doi link]:
 [pmid link]:

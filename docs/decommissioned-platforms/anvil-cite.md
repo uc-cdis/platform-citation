@@ -14,8 +14,8 @@ Please credit the AnVIL Data Commons in your manuscript by citing the following 
 <!-- Links and Images -->
 [AnVIL Platform]: https://gen3.theanvil.io/
 [Gen3.org]: https://gen3.org/
-[img AnVIL logo]: ./img/AnVIL-logo.png
-[img Gen3 logo]: ./img/gen3blue.png
+[img AnVIL logo]: ../img/AnVIL-logo.png
+[img Gen3 logo]: ../img/gen3blue.png
 [doi link]: https://doi.org/10.1016/j.xgen.2021.100085
 [pmid link]: https://pubmed.ncbi.nlm.nih.gov/35199087/
 [pmcid link]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8863334/
