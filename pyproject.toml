@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "platform-citation"
-version = "0.2.0"
+version = "0.1.1"
 description = "For managing and publishing all language for citing Gen3 platforms"
 authors = ["CTDS UChicago <cdis@uchicago.edu>"]
 license = "Apache-2.0"
