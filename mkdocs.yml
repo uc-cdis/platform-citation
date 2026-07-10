@@ -7,10 +7,13 @@ nav:
        - BioData Catalyst: bdc-cite.md
        - Biomedical Research Hub (BRH): brh-cite.md
        - BLOODPAC: bloodpac-cite.md
+       - Canine Data Commons: canine-cite.md
+       - Gen3 Data Hub: gen3hub-cite.md
        - HEAL: heal-cite.md
        - JCOIN: jcoin-cite.md
        - The Murtha Cancer Center Data Platform (MC2DP): mc2dp-cite.md
        - MIDRC: midrc-cite.md
+       - M3 AI Commons: m3-cite.md
        - Pandemic Response Commons: prc-cite.md
        - Veterans Precision Oncology Data Commons (VPODC): vpodc-cite.md
     - CTDS Home: https://ctds.uchicago.edu/
