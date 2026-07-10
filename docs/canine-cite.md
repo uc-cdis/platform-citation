@@ -1,4 +1,4 @@
-# M3 AI Commons
+# Canine Data Commons
 
 ## Cite Gen3
 

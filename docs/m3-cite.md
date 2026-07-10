@@ -10,7 +10,7 @@ When citing the Gen3 software please reference the following paper:
 
 [![M3 Logo][img M3 logo]{:style="height:100px"}][M3 AI Commons]
 
-## [Learn more about the M3 AI Initiative][Org website]
+## [Learn more about the M3 AI Initiative][M3 Org website]
 
 <!-- Links and Images -->
 [M3 AI Commons]: https://m3aicommons.org/
