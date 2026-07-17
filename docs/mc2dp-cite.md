@@ -10,7 +10,7 @@ Please credit the The Murtha Cancer Center Data Platform (MC2DP) in your manuscr
 
 When citing the Gen3 software please reference the following paper:
 
-> Barnes, C., Burton, K., Fitzsimons, M. S., Juvvala, H. P., Larrick, B., Meyer, C., ... & Grossman, R. L. (2025). Managing, Analyzing and Sharing Research Data with Gen3 Data Commons. arXiv preprint arXiv:2508.04944.
+> Barnes, C., Burton, K., Fitzsimons, M.S. et al. Managing, Analyzing and Sharing Research Data with Gen3 Data Commons. Sci Data (2026). [https://doi.org/10.1038/s41597-026-07376-z](https://doi.org/10.1038/s41597-026-07376-z).
 
 
 ## [Return to the MC2DP Platform][MC2DP Platform]
