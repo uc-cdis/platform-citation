@@ -18,8 +18,8 @@ Please credit the Medical Imaging & Data Resource Center (MIDRC) Data Commons in
 [img MIDRC logo]: ./img/MIDRC-logo.png
 [img Gen3 logo]: ./img/gen3blue.png
 [Org website]: https://www.midrc.org/
-<!-- 
-[doi link]: 
-[pmid link]: 
-[pmcid link]: 
+<!--
+[doi link]:
+[pmid link]:
+[pmcid link]:
 -->

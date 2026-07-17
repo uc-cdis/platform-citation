@@ -4,7 +4,7 @@
 
 Please credit the Biomedical Research Hub (BRH) in your manuscript by citing the following paper:
 
-> Barnes, C., Bajracharya, B., Cannalte, M., Gowani, Z., Haley, W., Kass-Hout, T., Hernandez, K., Ingram, M., Juvvala, H. P., Kuffel, G., Martinov, P., Maxwell, J. M., McCann, J., Malhotra, A., Metoki-Shlubsky, N., Meyer, C., Paredes, A., Qureshi, J., Ritter, X., Schumm, P., … Grossman, R. L. (2022). The Biomedical Research Hub: a federated platform for patient research data. Journal of the American Medical Informatics Association : JAMIA, 29(4), 619–625. https://doi.org/10.1093/jamia/ocab247
+> Barnes, C., Bajracharya, B., Cannalte, M., Gowani, Z., Haley, W., Kass-Hout, T., Hernandez, K., Ingram, M., Juvvala, H. P., Kuffel, G., Martinov, P., Maxwell, J. M., McCann, J., Malhotra, A., Metoki-Shlubsky, N., Meyer, C., Paredes, A., Qureshi, J., Ritter, X., Schumm, P., … Grossman, R. L. (2022). The Biomedical Research Hub: a federated platform for patient research data. Journal of the American Medical Informatics Association : JAMIA, 29(4), 619–625. [https://doi.org/10.1093/jamia/ocab247](https://doi.org/10.1093/jamia/ocab247).
 
 ## Cite Data from BRH
 
@@ -14,7 +14,7 @@ When citing data found on the BRH platform, please cite or acknowledge the assoc
 
 When citing the Gen3 software please reference the following paper:
 
-> Barnes, C., Burton, K., Fitzsimons, M. S., Juvvala, H. P., Larrick, B., Meyer, C., ... & Grossman, R. L. (2025). Managing, Analyzing and Sharing Research Data with Gen3 Data Commons. arXiv preprint arXiv:2508.04944.
+> Barnes, C., Burton, K., Fitzsimons, M.S. et al. Managing, Analyzing and Sharing Research Data with Gen3 Data Commons. Sci Data (2026). [https://doi.org/10.1038/s41597-026-07376-z](https://doi.org/10.1038/s41597-026-07376-z).
 
 
 ## [Return to the BRH Platform][BRH Platform]
